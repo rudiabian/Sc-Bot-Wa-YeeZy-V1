@@ -1,14 +1,14 @@
 {
     "limitCount": 10,
-    "ownerNumber": "6287861385512@c.us",
-    "memberLimit": 100,
-    "groupLimit": 50,
-    "medialimitCount": "5",
+    "ownerNumber": "60142808841@c.us",
+    "memberLimit": 1000,
+    "groupLimit": 500,
+    "medialimitCount": "500",
     "prefix": "/,.,!,$,*,€,_,+,#,?",
     "halal": true,
-    "vhtearkey": "Your Apikey In Here",
-    "apikeyz": "Your Apikey In Here",
-    "lolhuman": "Your Apikey In Here",
-    "apizeks": "Your Apikey In Here",
+    "vhtearkey": "367f54b551248d41db6889c9",
+    "apikeyz": "367f54b551248d41db6889c9",
+    "lolhuman": "367f54b551248d41db6889c9",
+    "apizeks": "367f54b551248d41db6889c9",
     "caliph": "beta"
 }
